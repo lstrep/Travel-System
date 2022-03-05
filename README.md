@@ -27,7 +27,7 @@ Making a booking (client perspective):
 ![image](https://user-images.githubusercontent.com/95477806/156886816-a63aff8f-9f8b-4a4d-baa8-c47428734db5.png)
 ![image](https://user-images.githubusercontent.com/95477806/156886819-e946a3e7-6f8e-4795-b2fa-a14892d54d47.png)
 
-During this project I focused on understanding Hibernate framework. I've created database to which every operation was saved. 
+During this project I focused on understanding Hibernate framework. I've mapped all the classes, as well as relations between them, and created database to which every operation was saved. 
 All the details can be retrieved from the system after termination of its work and rebooting.
 
 Database scheme diagram:
