@@ -29,3 +29,7 @@ Making a booking (client perspective):
 
 During this project I focused on understanding Hibernate framework. I've created database to which every operation was saved. 
 All the details can be retrieved from the system after termination of its work and rebooting.
+
+Database scheme diagram:
+![image](https://user-images.githubusercontent.com/95477806/156887008-f71fb826-bac8-4a76-8293-65663cc32b29.png)
+
